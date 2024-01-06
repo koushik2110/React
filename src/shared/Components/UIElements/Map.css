@@ -1,0 +1,9 @@
+.small-map-container {
+  height: 300px;
+  width: 100%;
+}
+
+/* Customize the appearance of the popup */
+.leaflet-popup-content {
+  text-align: center;
+}
